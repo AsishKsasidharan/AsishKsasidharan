@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **
 
-<a href="https://www.python.com/" target="_blank" rel="noreferrer"> <img src="[https://www.python.org/static/community_logos/python-logo-generic.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.python.com/" target="_blank" rel="noreferrer"> <img src="https://www.python.org/static/community_logos/python-powered-h.svg" alt="python" width="40" height="40"/> </a>
 
 
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
