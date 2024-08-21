@@ -2,7 +2,7 @@
 
 ### Hi there 👋 I'm Asish K Sasidharan,
 
-- 🌱 I’m currently working as an Oceanography researcher, I am vivid learner of programming langauges and very fascinated by computing and web technology **
+- 🌱 I’m currently working as an Oceanographic researcher, I am a vivid learner of programming languages and very fascinated by computing and web technology **
 
 - 🌱 I’m currently learning **
 
